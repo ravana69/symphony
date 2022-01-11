@@ -4,7 +4,7 @@ const sources = [
 ];
 
 const labels = [
-  [ "Shalom Beats", "http://stream.zeno.fm/2pcxz945dchvv"],
+  [ "Beethoven", "http://stream.zeno.fm/2pcxz945dchvv"],
   [ "Mozart", "http://stream.zeno.fm/3qmnn155dchvv"]
 ];
 
