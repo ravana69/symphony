@@ -1,24 +1,24 @@
 const sources = [
   "http://stream.zeno.fm/2pcxz945dchvv", // Beethoven
-  "http://stream.zeno.fm/3qmnn155dchvv" // Mozart
-  "http://stream.zeno.fm/kyzzrm68dchvv" // Brahms
-  "http://stream.zeno.fm/5m2eyf68dchvv" // Bruckner
-  "http://stream.zeno.fm/znyp0gn3echvv" // Beriloz
-  "http://stream.zeno.fm/rrddefk3echvv" // Mahler
-  "http://stream.zeno.fm/ugxdct68dchvv" // Shostakovich
-  "http://stream.zeno.fm/swvf11m3echvv" // Sibelius
+  "http://stream.zeno.fm/3qmnn155dchvv", // Mozart
+  "http://stream.zeno.fm/kyzzrm68dchvv", // Brahms
+  "http://stream.zeno.fm/5m2eyf68dchvv", // Bruckner
+  "http://stream.zeno.fm/znyp0gn3echvv", // Beriloz
+  "http://stream.zeno.fm/rrddefk3echvv", // Mahler
+  "http://stream.zeno.fm/ugxdct68dchvv", // Shostakovich
+  "http://stream.zeno.fm/swvf11m3echvv", // Sibelius
   "http://stream.zeno.fm/24ma6qn3echvv" // Tchaikovsky
 ];
 
 const labels = [
   [ "Beethoven", "http://stream.zeno.fm/2pcxz945dchvv"],
-  [ "Mozart", "http://stream.zeno.fm/3qmnn155dchvv"]
-  [ "Brahms", "http://stream.zeno.fm/kyzzrm68dchvv"]
-  [ "Bruckner", "http://stream.zeno.fm/5m2eyf68dchvv"]
-  [ "Beriloz", "http://stream.zeno.fm/znyp0gn3echvv"]
-  [ "Mahler", "http://stream.zeno.fm/rrddefk3echvv"]
-  [ "Shostakovich", "http://stream.zeno.fm/ugxdct68dchvv"]
-  [ "Sibelius", "http://stream.zeno.fm/swvf11m3echvv"]
+  [ "Mozart", "http://stream.zeno.fm/3qmnn155dchvv"],
+  [ "Brahms", "http://stream.zeno.fm/kyzzrm68dchvv"],
+  [ "Bruckner", "http://stream.zeno.fm/5m2eyf68dchvv"],
+  [ "Beriloz", "http://stream.zeno.fm/znyp0gn3echvv"],
+  [ "Mahler", "http://stream.zeno.fm/rrddefk3echvv"],
+  [ "Shostakovich", "http://stream.zeno.fm/ugxdct68dchvv"],
+  [ "Sibelius", "http://stream.zeno.fm/swvf11m3echvv"],
   [ "Tchaikovsky", "http://stream.zeno.fm/24ma6qn3echvv"]
 ];
 
